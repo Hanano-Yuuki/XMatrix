@@ -1,0 +1,89 @@
+# Compiled output
+*.o
+*.out
+*.exe
+*.dll
+
+# Temporary files
+*.swp
+*~
+*.log
+
+# Build directories
+build/
+bin/
+
+# Dependency directories
+vendor/
+
+# Visual Studio related folders and files
+.vscode/
+*.suo
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Xcode related folders and files
+.xcodeproj/
+*.xcworkspace/
+*.xcuserdatad/
+
+# Eclipse related folders and files
+.settings/
+.metadata/
+bin/
+tmp/
+
+# CLion related folders and files
+.idea/
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+
+# Generated Makefile
+Makefile
+Makefile.in
+
+# CMake install files
+cmake_install.cmake
+install_manifest.txt
+
+# Compiled files generated during build
+CMakeFiles/
+CMakeScripts/
+Testing/
+
+# Compiled executables generated during build
+CMakeFiles/
+CMakeScripts/
+Testing/
+
+# Generated Makefiles during build
+CMakeFiles/
+CMakeScripts/
+Testing/
+
+# Compiled libraries generated during build
+CMakeFiles/
+CMakeScripts/
+Testing/
+
+# Temporary files generated during build
+CMakeFiles/
+CMakeScripts/
+Testing/
+
+# Log files generated during build
+CMakeFiles/
+CMakeScripts/
+Testing/
+
+# Installation files generated during build
+CMakeFiles/
+CMakeScripts/
+Testing/
